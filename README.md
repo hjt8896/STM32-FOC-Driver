@@ -7,7 +7,6 @@
 ## 2. 核心特性
 ### 算法架构：
 <img width="829" height="374" alt="image" src="https://github.com/user-attachments/assets/fa362a84-aba0-43e0-8d3f-25b5438ef67b" />
-采用 SVPWM（空间矢量脉宽调制）技术，提升母线电压利用率。
 
 ### 闭环控制：
 构建了基于编码器反馈与电流采样的转速/位置双闭环系统。
