@@ -19,7 +19,7 @@
 
 ## 3. 技术栈
 ### 硬件：
-STM32G431CBU6、MOSFET 驱动桥、AS5048A磁角度传感器。
+STM32G431CBU6、MOSFET 驱动桥、AS5048A磁角度传感器、3510云台无刷电机。
 
 ### 软件：
 C 语言、Keil、Matlab/Simulink、STM32CUBEMX。
